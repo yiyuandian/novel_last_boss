@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1"
+    xmlns="http://www.daisy.org/z3986/2005/ncx/">
+    <head>
+        <meta content="urn:uuid:2a906f45-b8a7-4c3f-999e-c2908a032fed" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>野生的最终boss出现了</text>
+    </docTitle>
+    <navMap><navPoint id="navPoint0" playOrder="0">
+<navLabel>
+<text>野生的最终boss出现了 野生のラスボスが现れた！</text>
+</navLabel>
+<content src="Text/c000.xhtml" /></navPoint>
+<navPoint id="navPoint1" playOrder="1">
+<navLabel>
+<text>1.</text>
+</navLabel>
+<content src="Text/c001.xhtml" /></navPoint>
+<navPoint id="navPoint2" playOrder="2">
+<navLabel>
+<text>2.在天空飞翔的野生最终boss</text>
+</navLabel>
+<content src="Text/c002.xhtml" /></navPoint>
+<navPoint id="navPoint3" playOrder="3">
+<navLabel>
+<text>3.野生的仆人出现了</text>
+</navLabel>
+<content src="Text/c003.xhtml" /></navPoint>
+<navPoint id="navPoint4" playOrder="4">
+<navLabel>
+<text>4.</text>
+</navLabel>
+<content src="Text/c004.xhtml" /></navPoint>
+<navPoint id="navPoint5" playOrder="5">
+<navLabel>
+<text>5. 野生的boss接受了委托</text>
+</navLabel>
+<content src="Text/c005.xhtml" /></navPoint>
+<navPoint id="navPoint6" playOrder="6">
+<navLabel>
+<text>6.野生的猪人出现了</text>
+</navLabel>
+<content src="Text/c006.xhtml" /></navPoint>
+<navPoint id="navPoint7" playOrder="7">
+<navLabel>
+<text>7.野生的猪头人眼前(前途)一片漆黑</text>
+</navLabel>
+<content src="Text/c007.xhtml" /></navPoint>
+<navPoint id="navPoint8" playOrder="8">
+<navLabel>
+<text>8.野生的最终boss横穿国家</text>
+</navLabel>
+<content src="Text/c008.xhtml" /></navPoint>
+<navPoint id="navPoint9" playOrder="9">
+<navLabel>
+<text>9.亲切的大叔出现啦</text>
+</navLabel>
+<content src="Text/c009.xhtml" /></navPoint>
+<navPoint id="navPoint10" playOrder="10">
+<navLabel>
+<text>10.野生的最终boss在读书</text>
+</navLabel>
+<content src="Text/c010.xhtml" /></navPoint>
+<navPoint id="navPoint11" playOrder="11">
+<navLabel>
+<text>11.熟睡的阿丽艾斯</text>
+</navLabel>
+<content src="Text/c011.xhtml" /></navPoint>
+<navPoint id="navPoint12" playOrder="12">
+<navLabel>
+<text>12.野生的魔物们冒出来了</text>
+</navLabel>
+<content src="Text/c012.xhtml" /></navPoint>
+<navPoint id="navPoint13" playOrder="13">
+<navLabel>
+<text>13.麦格拉斯召唤了雷碧亚</text>
+</navLabel>
+<content src="Text/c013.xhtml" /></navPoint>
+<navPoint id="navPoint14" playOrder="14">
+<navLabel>
+<text>14.野生的阿丽艾斯出现了</text>
+</navLabel>
+<content src="Text/c014.xhtml" /></navPoint>
+<navPoint id="navPoint15" playOrder="15">
+<navLabel>
+<text>15.野生的最终BOSS，与贤王再会</text>
+</navLabel>
+<content src="Text/c015.xhtml" /></navPoint>
+<navPoint id="navPoint16" playOrder="16">
+<navLabel>
+<text>16.魔神族摇摇晃晃的舞蹈</text>
+</navLabel>
+<content src="Text/c016.xhtml" /></navPoint>
+<navPoint id="navPoint17" playOrder="17">
+<navLabel>
+<text>17.阿丽艾斯，get daze！</text>
+</navLabel>
+<content src="Text/c017.xhtml" /></navPoint>
+<navPoint id="navPoint18" playOrder="18">
+<navLabel>
+<text>18.旅途的伙伴增加了</text>
+</navLabel>
+<content src="Text/c018.xhtml" /></navPoint>
+<navPoint id="navPoint19" playOrder="19">
+<navLabel>
+<text>19.放跑了马尔斯 再见，马尔斯</text>
+</navLabel>
+<content src="Text/c019.xhtml" /></navPoint>
+<navPoint id="navPoint20" playOrder="20">
+<navLabel>
+<text>20.莉布拉把路堵住了过不去</text>
+</navLabel>
+<content src="Text/c020.xhtml" /></navPoint>
+<navPoint id="navPoint21" playOrder="21">
+<navLabel>
+<text>21.野生的魔法人偶出现了</text>
+</navLabel>
+<content src="Text/c021.xhtml" /></navPoint>
+<navPoint id="navPoint22" playOrder="22">
+<navLabel>
+<text>22.已经可以了！回来吧冒险者！</text>
+</navLabel>
+<content src="Text/c022.xhtml" /></navPoint>
+<navPoint id="navPoint23" playOrder="23">
+<navLabel>
+<text>23.野生的莉布拉出现了!</text>
+</navLabel>
+<content src="Text/c023.xhtml" /></navPoint>
+<navPoint id="navPoint24" playOrder="24">
+<navLabel>
+<text>24.获得莉布拉了!!</text>
+</navLabel>
+<content src="Text/c024.xhtml" /></navPoint>
+<navPoint id="navPoint25" playOrder="25">
+<navLabel>
+<text>25.莉布拉的飞空术</text>
+</navLabel>
+<content src="Text/c025.xhtml" /></navPoint>
+<navPoint id="navPoint26" playOrder="26">
+<navLabel>
+<text>26. 露法斯在呼呼地睡着了</text>
+</navLabel>
+<content src="Text/c026.xhtml" /></navPoint>
+<navPoint id="navPoint27" playOrder="27">
+<navLabel>
+<text>27. 野生的埃格科洛斯出现了</text>
+</navLabel>
+<content src="Text/c027.xhtml" /></navPoint>
+<navPoint id="navPoint28" playOrder="28">
+<navLabel>
+<text>28. 莉布拉，就决定是你了</text>
+</navLabel>
+<content src="Text/c028.xhtml" /></navPoint>
+<navPoint id="navPoint29" playOrder="29">
+<navLabel>
+<text>29.朱庇特逃跑了</text>
+</navLabel>
+<content src="Text/c029.xhtml" /></navPoint>
+<navPoint id="navPoint30" playOrder="30">
+<navLabel>
+<text>30. 加拉尔霍恩正在累积力量</text>
+</navLabel>
+<content src="Text/c030.xhtml" /></navPoint>
+<navPoint id="navPoint31" playOrder="31">
+<navLabel>
+<text>31. 维纳斯的诡计</text>
+</navLabel>
+<content src="Text/c031.xhtml" /></navPoint>
+<navPoint id="navPoint32" playOrder="32">
+<navLabel>
+<text>32. 加拉尔霍恩的火花</text>
+</navLabel>
+<content src="Text/c032.xhtml" /></navPoint>
+<navPoint id="navPoint33" playOrder="33">
+<navLabel>
+<text>33.埃格科洛斯的超音波</text>
+</navLabel>
+<content src="Text/c033.xhtml" /></navPoint>
+<navPoint id="navPoint34" playOrder="34">
+<navLabel>
+<text>34. 太好了！抓到了朱庇特！</text>
+</navLabel>
+<content src="Text/c034.xhtml" /></navPoint>
+<navPoint id="navPoint35" playOrder="35">
+<navLabel>
+<text>35. 埃格科洛斯，get daze</text>
+</navLabel>
+<content src="Text/c035.xhtml" /></navPoint>
+<navPoint id="navPoint36" playOrder="36">
+<navLabel>
+<text>36. 莉布拉的居合斩</text>
+</navLabel>
+<content src="Text/c036.xhtml" /></navPoint>
+<navPoint id="navPoint37" playOrder="37">
+<navLabel>
+<text>37. 恭喜！露法斯进化成了小丑！</text>
+</navLabel>
+<content src="Text/c037.xhtml" /></navPoint>
+<navPoint id="navPoint38" playOrder="38">
+<navLabel>
+<text>38. 贝涅特纳修的怨念</text>
+</navLabel>
+<content src="Text/c038.xhtml" /></navPoint>
+<navPoint id="navPoint39" playOrder="39">
+<navLabel>
+<text>39. 蒂娜想要来一场胜负</text>
+</navLabel>
+<content src="Text/c039.xhtml" /></navPoint>
+<navPoint id="navPoint40" playOrder="40">
+<navLabel>
+<text>40. 蒂娜，得到了？</text>
+</navLabel>
+<content src="Text/c040.xhtml" /></navPoint>
+<navPoint id="navPoint41" playOrder="41">
+<navLabel>
+<text>41. 野生的七曜出现了</text>
+</navLabel>
+<content src="Text/c041.xhtml" /></navPoint>
+<navPoint id="navPoint42" playOrder="42">
+<navLabel>
+<text>42. 设定上的最终boss出现了</text>
+</navLabel>
+<content src="Text/c042.xhtml" /></navPoint>
+<navPoint id="navPoint43" playOrder="43">
+<navLabel>
+<text>43. 被野生和设定的boss夹着</text>
+</navLabel>
+<content src="Text/c043.xhtml" /></navPoint>
+<navPoint id="navPoint44" playOrder="44">
+<navLabel>
+<text>44. 魔神王想要来一场胜负</text>
+</navLabel>
+<content src="Text/c044.xhtml" /></navPoint>
+<navPoint id="navPoint45" playOrder="45">
+<navLabel>
+<text>45. 露法斯的手下留情</text>
+</navLabel>
+<content src="Text/c045.xhtml" /></navPoint>
+<navPoint id="navPoint46" playOrder="46">
+<navLabel>
+<text>46.哎呀，帕尔提诺斯的样子.....</text>
+</navLabel>
+<content src="Text/c046.xhtml" /></navPoint>
+<navPoint id="navPoint47" playOrder="47">
+<navLabel>
+<text>47、恭喜，乙女向怨灵进化了</text>
+</navLabel>
+<content src="Text/c047.xhtml" /></navPoint>
+<navPoint id="navPoint48" playOrder="48">
+<navLabel>
+<text>48.田中学会了飞空术</text>
+</navLabel>
+<content src="Text/c048.xhtml" /></navPoint>
+<navPoint id="navPoint49" playOrder="49">
+<navLabel>
+<text>49. 野生的亡灵出现了</text>
+</navLabel>
+<content src="Text/c049.xhtml" /></navPoint>
+<navPoint id="navPoint50" playOrder="50">
+<navLabel>
+<text>50. 野生的最终BOSS在战栗</text>
+</navLabel>
+<content src="Text/c050.xhtml" /></navPoint>
+<navPoint id="navPoint51" playOrder="51">
+<navLabel>
+<text>51.</text>
+</navLabel>
+<content src="Text/c051.xhtml" /></navPoint>
+<navPoint id="navPoint52" playOrder="52">
+<navLabel>
+<text>52.野生的最终Boss，去复习吧</text>
+</navLabel>
+<content src="Text/c052.xhtml" /></navPoint>
+<navPoint id="navPoint53" playOrder="53">
+<navLabel>
+<text>53. 炼金术士的力量真强大</text>
+</navLabel>
+<content src="Text/c053.xhtml" /></navPoint>
+<navPoint id="navPoint54" playOrder="54">
+<navLabel>
+<text>54.野生的最终boss，吃午饭</text>
+</navLabel>
+<content src="Text/c054.xhtml" /></navPoint>
+<navPoint id="navPoint55" playOrder="55">
+<navLabel>
+<text>55.野生的傻瓜出现了</text>
+</navLabel>
+<content src="Text/c055.xhtml" /></navPoint>
+<navPoint id="navPoint56" playOrder="56">
+<navLabel>
+<text>56.野生的勇者向贤王搭话了</text>
+</navLabel>
+<content src="Text/c056.xhtml" /></navPoint>
+<navPoint id="navPoint57" playOrder="57">
+<navLabel>
+<text>57.野生的矮人出现了</text>
+</navLabel>
+<content src="Text/c057.xhtml" /></navPoint>
+<navPoint id="navPoint58" playOrder="58">
+<navLabel>
+<text>58.野生的卡尔基诺斯出现了</text>
+</navLabel>
+<content src="Text/c058.xhtml" /></navPoint>
+<navPoint id="navPoint59" playOrder="59">
+<navLabel>
+<text>59.野生的斯科尔皮斯出现了</text>
+</navLabel>
+<content src="Text/c059.xhtml" /></navPoint>
+<navPoint id="navPoint60" playOrder="60">
+<navLabel>
+<text>60.野生的七曜(月之露娜)出现了</text>
+</navLabel>
+<content src="Text/c060.xhtml" /></navPoint>
+<navPoint id="navPoint61" playOrder="61">
+<navLabel>
+<text>61.埃格科洛斯的巨大化</text>
+</navLabel>
+<content src="Text/c061.xhtml" /></navPoint>
+<navPoint id="navPoint62" playOrder="62">
+<navLabel>
+<text>62.量产型莉布拉的大爆发</text>
+</navLabel>
+<content src="Text/c062.xhtml" /></navPoint>
+<navPoint id="navPoint63" playOrder="63">
+<navLabel>
+<text>63．剑圣逃走了</text>
+</navLabel>
+<content src="Text/c063.xhtml" /></navPoint>
+<navPoint id="navPoint64" playOrder="64">
+<navLabel>
+<text>64.卡尔基诺斯的反击</text>
+</navLabel>
+<content src="Text/c064.xhtml" /></navPoint>
+<navPoint id="navPoint65" playOrder="65">
+<navLabel>
+<text>65.哦呀？露法斯的样子......</text>
+</navLabel>
+<content src="Text/c065.xhtml" /></navPoint>
+<navPoint id="navPoint66" playOrder="66">
+<navLabel>
+<text>66．露法斯的百万吨飞腿</text>
+</navLabel>
+<content src="Text/c066.xhtml" /></navPoint>
+<navPoint id="navPoint67" playOrder="67">
+<navLabel>
+<text>67.野生的帅小伙出现了</text>
+</navLabel>
+<content src="Text/c067.xhtml" /></navPoint>
+<navPoint id="navPoint68" playOrder="68">
+<navLabel>
+<text>68.维纳斯的瞬间移动</text>
+</navLabel>
+<content src="Text/c068.xhtml" /></navPoint>
+<navPoint id="navPoint69" playOrder="69">
+<navLabel>
+<text>69.恭喜，米扎尔进化成魔像了</text>
+</navLabel>
+<content src="Text/c069.xhtml" /></navPoint>
+<navPoint id="navPoint70" playOrder="70">
+<navLabel>
+<text>70.恭喜，杀人女仆进化成歼灭女仆了</text>
+</navLabel>
+<content src="Text/c070.xhtml" /></navPoint>
+<navPoint id="navPoint71" playOrder="71">
+<navLabel>
+<text>71.魔神王派出了高等级魔物</text>
+</navLabel>
+<content src="Text/c071.xhtml" /></navPoint>
+<navPoint id="navPoint72" playOrder="72">
+<navLabel>
+<text>72.斯科尔皮斯的撒娇</text>
+</navLabel>
+<content src="Text/c072.xhtml" /></navPoint>
+<navPoint id="navPoint73" playOrder="73">
+<navLabel>
+<text>73.这里是德罗普尼尔，兽与人友好共处的城镇</text>
+</navLabel>
+<content src="Text/c073.xhtml" /></navPoint>
+<navPoint id="navPoint74" playOrder="74">
+<navLabel>
+<text>74.薇尔戈，就决定是你了</text>
+</navLabel>
+<content src="Text/c074.xhtml" /></navPoint>
+<navPoint id="navPoint75" playOrder="75">
+<navLabel>
+<text>75.野生的肉食恐龙跳出来了</text>
+</navLabel>
+<content src="Text/c075.xhtml" /></navPoint>
+<navPoint id="navPoint76" playOrder="76">
+<navLabel>
+<text>76．勇者的飞沙脚</text>
+</navLabel>
+<content src="Text/c076.xhtml" /></navPoint>
+<navPoint id="navPoint77" playOrder="77">
+<navLabel>
+<text>77.狐兽人的叫声</text>
+</navLabel>
+<content src="Text/c077.xhtml" /></navPoint>
+<navPoint id="navPoint78" playOrder="78">
+<navLabel>
+<text>78.斯科尔皮斯的猛毒素</text>
+</navLabel>
+<content src="Text/c078.xhtml" /></navPoint>
+<navPoint id="navPoint79" playOrder="79">
+<navLabel>
+<text>79.冒险者们逃走了</text>
+</navLabel>
+<content src="Text/c079.xhtml" /></navPoint>
+<navPoint id="navPoint80" playOrder="80">
+<navLabel>
+<text>80.莉布拉的反射盾(卡尔基诺斯)</text>
+</navLabel>
+<content src="Text/c080.xhtml" /></navPoint>
+<navPoint id="navPoint81" playOrder="81">
+<navLabel>
+<text>81.墨丘利的冲浪</text>
+</navLabel>
+<content src="Text/c081.xhtml" /></navPoint>
+<navPoint id="navPoint82" playOrder="82">
+<navLabel>
+<text>82.七曜的墨丘利发起了挑战！</text>
+</navLabel>
+<content src="Text/c082.xhtml" /></navPoint>
+<navPoint id="navPoint83" playOrder="83">
+<navLabel>
+<text>83.阿丽艾斯的地震</text>
+</navLabel>
+<content src="Text/c083.xhtml" /></navPoint>
+<navPoint id="navPoint84" playOrder="84">
+<navLabel>
+<text>84.墨丘利无视命令的舍身撞！</text>
+</navLabel>
+<content src="Text/c084.xhtml" /></navPoint>
+<navPoint id="navPoint85" playOrder="85">
+<navLabel>
+<text>85.阿丽艾斯的火焰漩涡</text>
+</navLabel>
+<content src="Text/c085.xhtml" /></navPoint>
+<navPoint id="navPoint86" playOrder="86">
+<navLabel>
+<text>86.埃格科洛斯的百万吨吸收</text>
+</navLabel>
+<content src="Text/c086.xhtml" /></navPoint>
+<navPoint id="navPoint87" playOrder="87">
+<navLabel>
+<text>87.露法斯的气合拳 把卡尔基诺斯打倒了</text>
+</navLabel>
+<content src="Text/c087.xhtml" /></navPoint>
+<navPoint id="navPoint88" playOrder="88">
+<navLabel>
+<text>88.克鲁斯的光墙</text>
+</navLabel>
+<content src="Text/c088.xhtml" /></navPoint>
+<navPoint id="navPoint89" playOrder="89">
+<navLabel>
+<text>89.露法斯的念力</text>
+</navLabel>
+<content src="Text/c089.xhtml" /></navPoint>
+<navPoint id="navPoint90" playOrder="90">
+<navLabel>
+<text>90.勇者逃走了！</text>
+</navLabel>
+<content src="Text/c090.xhtml" /></navPoint>
+<navPoint id="navPoint91" playOrder="91">
+<navLabel>
+<text>初回版限定同捆版"野生的最终boss去泡澡了"</text>
+</navLabel>
+<content src="Text/c090_extra01.xhtml" /></navPoint>
+<navPoint id="navPoint92" playOrder="92">
+<navLabel>
+<text>店铺特典用SS"不行的事就是不行"</text>
+</navLabel>
+<content src="Text/c090_extra02.xhtml" /></navPoint>
+<navPoint id="navPoint93" playOrder="93">
+<navLabel>
+<text>番外·恭喜，？？？进化成废柴女神了！</text>
+</navLabel>
+<content src="Text/c090_extra03.xhtml" /></navPoint>
+<navPoint id="navPoint94" playOrder="94">
+<navLabel>
+<text>91.野生的亚人出现了</text>
+</navLabel>
+<content src="Text/c091.xhtml" /></navPoint>
+<navPoint id="navPoint95" playOrder="95">
+<navLabel>
+<text>92.卡斯托尔的电击</text>
+</navLabel>
+<content src="Text/c092.xhtml" /></navPoint>
+<navPoint id="navPoint96" playOrder="96">
+<navLabel>
+<text>93.我得到卡斯托尔了</text>
+</navLabel>
+<content src="Text/c093.xhtml" /></navPoint>
+<navPoint id="navPoint97" playOrder="97">
+<navLabel>
+<text>94.存放了薇尔戈和卡斯托尔</text>
+</navLabel>
+<content src="Text/c094.xhtml" /></navPoint>
+<navPoint id="navPoint98" playOrder="98">
+<navLabel>
+<text>95.啊！贝涅特纳修跳出来了！</text>
+</navLabel>
+<content src="Text/c095.xhtml" /></navPoint>
+<navPoint id="navPoint99" playOrder="99">
+<navLabel>
+<text>96.贝涅特纳修的劈开攻击</text>
+</navLabel>
+<content src="Text/c096.xhtml" /></navPoint>
+<navPoint id="navPoint100" playOrder="100">
+<navLabel>
+<text>97.魔物的咬住攻击</text>
+</navLabel>
+<content src="Text/c097.xhtml" /></navPoint>
+<navPoint id="navPoint101" playOrder="101">
+<navLabel>
+<text>98.贝涅特纳修发起了挑战！</text>
+</navLabel>
+<content src="Text/c098.xhtml" /></navPoint>
+<navPoint id="navPoint102" playOrder="102">
+<navLabel>
+<text>99.恭喜！露法斯进化成真 · 露法斯了！</text>
+</navLabel>
+<content src="Text/c099.xhtml" /></navPoint>
+<navPoint id="navPoint103" playOrder="103">
+<navLabel>
+<text>100.贝涅特纳修的挣扎</text>
+</navLabel>
+<content src="Text/c100.xhtml" /></navPoint>
+<navPoint id="navPoint104" playOrder="104">
+<navLabel>
+<text>101.一击必杀！</text>
+</navLabel>
+<content src="Text/c101.xhtml" /></navPoint>
+<navPoint id="navPoint105" playOrder="105">
+<navLabel>
+<text>102.野生的雷昂出现了</text>
+</navLabel>
+<content src="Text/c102.xhtml" /></navPoint>
+<navPoint id="navPoint106" playOrder="106">
+<navLabel>
+<text>103.莉布拉强烈的祈愿(？)传达给了阿斯特莱亚––––！</text>
+</navLabel>
+<content src="Text/c103.xhtml" /></navPoint>
+<navPoint id="navPoint107" playOrder="107">
+<navLabel>
+<text>104.雷昂的挣扎</text>
+</navLabel>
+<content src="Text/c104.xhtml" /></navPoint>
+<navPoint id="navPoint108" playOrder="108">
+<navLabel>
+<text>105.レオンのほえるこうげき</text>
+</navLabel>
+<content src="Text/c105.xhtml" /></navPoint>
+<navPoint id="navPoint109" playOrder="109">
+<navLabel>
+<text>106.勇者一行的变身</text>
+</navLabel>
+<content src="Text/c106.xhtml" /></navPoint>
+<navPoint id="navPoint110" playOrder="110">
+<navLabel>
+<text>107.半人马的看破</text>
+</navLabel>
+<content src="Text/c107.xhtml" /></navPoint>
+<navPoint id="navPoint111" playOrder="111">
+<navLabel>
+<text>108.军曹发起了挑战</text>
+</navLabel>
+<content src="Text/c108.xhtml" /></navPoint>
+<navPoint id="navPoint112" playOrder="112">
+<navLabel>
+<text>109.哦呀？铃木的样子……</text>
+</navLabel>
+<content src="Text/c109.xhtml" /></navPoint>
+<navPoint id="navPoint113" playOrder="113">
+<navLabel>
+<text>110.蒂娜的帮助</text>
+</navLabel>
+<content src="Text/c110.xhtml" /></navPoint>
+<navPoint id="navPoint114" playOrder="114">
+<navLabel>
+<text>111.阿丽艾斯的火焰拳</text>
+</navLabel>
+<content src="Text/c111.xhtml" /></navPoint>
+<navPoint id="navPoint115" playOrder="115">
+<navLabel>
+<text>112.阿丽艾斯的过热</text>
+</navLabel>
+<content src="Text/c112.xhtml" /></navPoint>
+<navPoint id="navPoint116" playOrder="116">
+<navLabel>
+<text>113.野生的牡牛出现了</text>
+</navLabel>
+<content src="Text/c113.xhtml" /></navPoint>
+<navPoint id="navPoint117" playOrder="117">
+<navLabel>
+<text>114.莉布拉的追打</text>
+</navLabel>
+<content src="Text/c114.xhtml" /></navPoint>
+<navPoint id="navPoint118" playOrder="118">
+<navLabel>
+<text>115.雷昂力尽了</text>
+</navLabel>
+<content src="Text/c115.xhtml" /></navPoint>
+<navPoint id="navPoint119" playOrder="119">
+<navLabel>
+<text>116.露法斯的日光束</text>
+</navLabel>
+<content src="Text/c116.xhtml" /></navPoint>
+<navPoint id="navPoint120" playOrder="120">
+<navLabel>
+<text>117.妖精姬的波鲁克丝发起了挑战</text>
+</navLabel>
+<content src="Text/c117.xhtml" /></navPoint>
+<navPoint id="navPoint121" playOrder="121">
+<navLabel>
+<text>118.波鲁克丝派出了阿尔戈英雄</text>
+</navLabel>
+<content src="Text/c118.xhtml" /></navPoint>
+<navPoint id="navPoint122" playOrder="122">
+<navLabel>
+<text>119.波鲁克丝的缩壳</text>
+</navLabel>
+<content src="Text/c119.xhtml" /></navPoint>
+<navPoint id="navPoint123" playOrder="123">
+<navLabel>
+<text>120.斯科尔皮斯的火焰踢！命中了要害！</text>
+</navLabel>
+<content src="Text/c120.xhtml" /></navPoint>
+<navPoint id="navPoint124" playOrder="124">
+<navLabel>
+<text>121.这里是雷迦仑 洋溢着令人怀念的布局风格的城镇</text>
+</navLabel>
+<content src="Text/c121.xhtml" /></navPoint>
+<navPoint id="navPoint125" playOrder="125">
+<navLabel>
+<text>122.野生的混混出现了</text>
+</navLabel>
+<content src="Text/c122.xhtml" /></navPoint>
+<navPoint id="navPoint126" playOrder="126">
+<navLabel>
+<text>123.濑衣派出了冈兹</text>
+</navLabel>
+<content src="Text/c123.xhtml" /></navPoint>
+<navPoint id="navPoint127" playOrder="127">
+<navLabel>
+<text>124.死亡flag纠缠住了德卜利</text>
+</navLabel>
+<content src="Text/c124.xhtml" /></navPoint>
+<navPoint id="navPoint128" playOrder="128">
+<navLabel>
+<text>125.死亡flag达到了最大</text>
+</navLabel>
+<content src="Text/c125.xhtml" /></navPoint>
+<navPoint id="navPoint129" playOrder="129">
+<navLabel>
+<text>126.露法斯的连续拳</text>
+</navLabel>
+<content src="Text/c126.xhtml" /></navPoint>
+<navPoint id="navPoint130" playOrder="130">
+<navLabel>
+<text>127.阿鲁菲逃走了</text>
+</navLabel>
+<content src="Text/c127.xhtml" /></navPoint>
+<navPoint id="navPoint131" playOrder="131">
+<navLabel>
+<text>128.波鲁克丝派出了龙王</text>
+</navLabel>
+<content src="Text/c128.xhtml" /></navPoint>
+<navPoint id="navPoint132" playOrder="132">
+<navLabel>
+<text>129.波鲁克丝派出了七英雄</text>
+</navLabel>
+<content src="Text/c129.xhtml" /></navPoint>
+<navPoint id="navPoint133" playOrder="133">
+<navLabel>
+<text>130.阿利奥特的剑舞</text>
+</navLabel>
+<content src="Text/c130.xhtml" /></navPoint>
+<navPoint id="navPoint134" playOrder="134">
+<navLabel>
+<text>131.贝涅特纳修的挖洞攻击</text>
+</navLabel>
+<content src="Text/c131.xhtml" /></navPoint>
+<navPoint id="navPoint135" playOrder="135">
+<navLabel>
+<text>132.龙王的火焰放射</text>
+</navLabel>
+<content src="Text/c132.xhtml" /></navPoint>
+<navPoint id="navPoint136" playOrder="136">
+<navLabel>
+<text>133.露法斯的百万吨拳击</text>
+</navLabel>
+<content src="Text/c133.xhtml" /></navPoint>
+<navPoint id="navPoint137" playOrder="137">
+<navLabel>
+<text>134.波鲁克丝派出了埃涅阿斯</text>
+</navLabel>
+<content src="Text/c134.xhtml" /></navPoint>
+<navPoint id="navPoint138" playOrder="138">
+<navLabel>
+<text>135.我得到波鲁克丝了</text>
+</navLabel>
+<content src="Text/c135.xhtml" /></navPoint>
+<navPoint id="navPoint139" playOrder="139">
+<navLabel>
+<text>136.露法斯的火花</text>
+</navLabel>
+<content src="Text/c136.xhtml" /></navPoint>
+<navPoint id="navPoint140" playOrder="140">
+<navLabel>
+<text>137.穆斯贝尔海姆被冰冻了</text>
+</navLabel>
+<content src="Text/c137.xhtml" /></navPoint>
+<navPoint id="navPoint141" playOrder="141">
+<navLabel>
+<text>138.阿丽艾斯的火焰放射</text>
+</navLabel>
+<content src="Text/c138.xhtml" /></navPoint>
+<navPoint id="navPoint142" playOrder="142">
+<navLabel>
+<text>139.火龍的梦话。火龍使用了替身。</text>
+</navLabel>
+<content src="Text/c139.xhtml" /></navPoint>
+<navPoint id="navPoint143" playOrder="143">
+<navLabel>
+<text>140.菲尼克斯的瞪眼</text>
+</navLabel>
+<content src="Text/c140.xhtml" /></navPoint>
+<navPoint id="navPoint144" playOrder="144">
+<navLabel>
+<text>141.七曜的索尔前来挑战了</text>
+</navLabel>
+<content src="Text/c141.xhtml" /></navPoint>
+<navPoint id="navPoint145" playOrder="145">
+<navLabel>
+<text>142.索尔的破坏光线</text>
+</navLabel>
+<content src="Text/c142.xhtml" /></navPoint>
+<navPoint id="navPoint146" playOrder="146">
+<navLabel>
+<text>143.索尔的挑衅</text>
+</navLabel>
+<content src="Text/c143.xhtml" /></navPoint>
+<navPoint id="navPoint147" playOrder="147">
+<navLabel>
+<text>144.帕尔提诺斯的宇宙力量、帕尔提诺斯的铁壁、帕尔提诺斯的诡计、帕尔提诺斯的……</text>
+</navLabel>
+<content src="Text/c144.xhtml" /></navPoint>
+<navPoint id="navPoint148" playOrder="148">
+<navLabel>
+<text>【145】ルーナの黒い霧</text>
+</navLabel>
+<content src="Text/c145.xhtml" /></navPoint>
+<navPoint id="navPoint149" playOrder="149">
+<navLabel>
+<text>146.特性：正义之心</text>
+</navLabel>
+<content src="Text/c146.xhtml" /></navPoint>
+<navPoint id="navPoint150" playOrder="150">
+<navLabel>
+<text>147.埃格科洛斯的旋风刀</text>
+</navLabel>
+<content src="Text/c147.xhtml" /></navPoint>
+<navPoint id="navPoint151" playOrder="151">
+<navLabel>
+<text>148.奥尔瓦尔的超音波</text>
+</navLabel>
+<content src="Text/c148.xhtml" /></navPoint>
+<navPoint id="navPoint152" playOrder="152">
+<navLabel>
+<text>149.啊！野生的邪神跳出来了！</text>
+</navLabel>
+<content src="Text/c149.xhtml" /></navPoint>
+<navPoint id="navPoint153" playOrder="153">
+<navLabel>
+<text>150.穗菈的变身</text>
+</navLabel>
+<content src="Text/c150.xhtml" /></navPoint>
+<navPoint id="navPoint154" playOrder="154">
+<navLabel>
+<text>151.埃格科洛斯的觉醒力量</text>
+</navLabel>
+<content src="Text/c151.xhtml" /></navPoint>
+<navPoint id="navPoint155" playOrder="155">
+<navLabel>
+<text>152.魔神族的打雷</text>
+</navLabel>
+<content src="Text/c152.xhtml" /></navPoint>
+<navPoint id="navPoint156" playOrder="156">
+<navLabel>
+<text>153.物理法则积蓄了力量</text>
+</navLabel>
+<content src="Text/c153.xhtml" /></navPoint>
+<navPoint id="navPoint157" playOrder="157">
+<navLabel>
+<text>154.露法斯的瞬间移动</text>
+</navLabel>
+<content src="Text/c154.xhtml" /></navPoint>
+<navPoint id="navPoint158" playOrder="158">
+<navLabel>
+<text>155.露法斯的聚宝功</text>
+</navLabel>
+<content src="Text/c155.xhtml" /></navPoint>
+<navPoint id="navPoint159" playOrder="159">
+<navLabel>
+<text>156.野生的奥修卡斯出现了</text>
+</navLabel>
+<content src="Text/c156.xhtml" /></navPoint>
+<navPoint id="navPoint160" playOrder="160">
+<navLabel>
+<text>157.特性：奇迹皮肤</text>
+</navLabel>
+<content src="Text/c157.xhtml" /></navPoint>
+<navPoint id="navPoint161" playOrder="161">
+<navLabel>
+<text>158.蒂娜的秘密力量</text>
+</navLabel>
+<content src="Text/c158.xhtml" /></navPoint>
+<navPoint id="navPoint162" playOrder="162">
+<navLabel>
+<text>159. exgate · Online的大爆发！</text>
+</navLabel>
+<content src="Text/c159.xhtml" /></navPoint>
+<navPoint id="navPoint163" playOrder="163">
+<navLabel>
+<text>160.露法斯醒过来了</text>
+</navLabel>
+<content src="Text/c160.xhtml" /></navPoint>
+<navPoint id="navPoint164" playOrder="164">
+<navLabel>
+<text>161.英雄现在干劲十足</text>
+</navLabel>
+<content src="Text/c161.xhtml" /></navPoint>
+<navPoint id="navPoint165" playOrder="165">
+<navLabel>
+<text>162.魔像的百万吨重拳</text>
+</navLabel>
+<content src="Text/c162.xhtml" /></navPoint>
+<navPoint id="navPoint166" playOrder="166">
+<navLabel>
+<text>163.雷昂的连续拳</text>
+</navLabel>
+<content src="Text/c163.xhtml" /></navPoint>
+<navPoint id="navPoint167" playOrder="167">
+<navLabel>
+<text>164.索尔的近身战</text>
+</navLabel>
+<content src="Text/c164.xhtml" /></navPoint>
+<navPoint id="navPoint168" playOrder="168">
+<navLabel>
+<text>165.雷昂的返拳</text>
+</navLabel>
+<content src="Text/c165.xhtml" /></navPoint>
+<navPoint id="navPoint169" playOrder="169">
+<navLabel>
+<text>166.索尔眼前一片漆黑</text>
+</navLabel>
+<content src="Text/c166.xhtml" /></navPoint>
+<navPoint id="navPoint170" playOrder="170">
+<navLabel>
+<text>167.莉布拉逃走了</text>
+</navLabel>
+<content src="Text/c167.xhtml" /></navPoint>
+<navPoint id="navPoint171" playOrder="171">
+<navLabel>
+<text>168.露法斯的挥指</text>
+</navLabel>
+<content src="Text/c168.xhtml" /></navPoint>
+<navPoint id="navPoint172" playOrder="172">
+<navLabel>
+<text>169.呼呼……完美的粉碎了！因为火星就是用来碎的！</text>
+</navLabel>
+<content src="Text/c169.xhtml" /></navPoint>
+<navPoint id="navPoint173" playOrder="173">
+<navLabel>
+<text>170.露法斯的攻击力duang的上升了</text>
+</navLabel>
+<content src="Text/c170.xhtml" /></navPoint>
+<navPoint id="navPoint174" playOrder="174">
+<navLabel>
+<text>171.我得到萨本斯了！</text>
+</navLabel>
+<content src="Text/c171.xhtml" /></navPoint>
+<navPoint id="navPoint175" playOrder="175">
+<navLabel>
+<text>172.梅拉格的(眼睛)水炮</text>
+</navLabel>
+<content src="Text/c172.xhtml" /></navPoint>
+<navPoint id="navPoint176" playOrder="176">
+<navLabel>
+<text>173.女神派出了龍</text>
+</navLabel>
+<content src="Text/c173.xhtml" /></navPoint>
+<navPoint id="navPoint177" playOrder="177">
+<navLabel>
+<text>174.土龍的地震</text>
+</navLabel>
+<content src="Text/c174.xhtml" /></navPoint>
+<navPoint id="navPoint178" playOrder="178">
+<navLabel>
+<text>175.土龍的流星群</text>
+</navLabel>
+<content src="Text/c175.xhtml" /></navPoint>
+<navPoint id="navPoint179" playOrder="179">
+<navLabel>
+<text>176.埃格科洛斯使用了月之石</text>
+</navLabel>
+<content src="Text/c176.xhtml" /></navPoint>
+<navPoint id="navPoint180" playOrder="180">
+<navLabel>
+<text>177.火龍的火焰漩</text>
+</navLabel>
+<content src="Text/c177.xhtml" /></navPoint>
+<navPoint id="navPoint181" playOrder="181">
+<navLabel>
+<text>178.卡尔基诺斯的报复</text>
+</navLabel>
+<content src="Text/c178.xhtml" /></navPoint>
+<navPoint id="navPoint182" playOrder="182">
+<navLabel>
+<text>179.土龍的黑洞吞噬万物灭</text>
+</navLabel>
+<content src="Text/c179.xhtml" /></navPoint>
+<navPoint id="navPoint183" playOrder="183">
+<navLabel>
+<text>180. 拿别人东西的是小偷！</text>
+</navLabel>
+<content src="Text/c180.xhtml" /></navPoint>
+<navPoint id="navPoint184" playOrder="184">
+<navLabel>
+<text>181.莉布拉mega进化了！</text>
+</navLabel>
+<content src="Text/c181.xhtml" /></navPoint>
+<navPoint id="navPoint185" playOrder="185">
+<navLabel>
+<text>182.阿萝维纳斯的模仿</text>
+</navLabel>
+<content src="Text/c182.xhtml" /></navPoint>
+<navPoint id="navPoint186" playOrder="186">
+<navLabel>
+<text>183.球被露法斯击飞了！</text>
+</navLabel>
+<content src="Text/c183.xhtml" /></navPoint>
+<navPoint id="navPoint187" playOrder="187">
+<navLabel>
+<text>184.神话记载中创造了宇宙的存在</text>
+</navLabel>
+<content src="Text/c184.xhtml" /></navPoint>
+<navPoint id="navPoint188" playOrder="188">
+<navLabel>
+<text>185.创世神的阿萝维纳斯前来挑战了！</text>
+</navLabel>
+<content src="Text/c185.xhtml" /></navPoint>
+<navPoint id="navPoint189" playOrder="189">
+<navLabel>
+<text>186.本女神！世界最强！比任何人都强！</text>
+</navLabel>
+<content src="Text/c186.xhtml" /></navPoint>
+<navPoint id="navPoint190" playOrder="190">
+<navLabel>
+<text>187.宇宙"请住手啊啊啊！！！"</text>
+</navLabel>
+<content src="Text/c187.xhtml" /></navPoint>
+<navPoint id="navPoint191" playOrder="191">
+<navLabel>
+<text>188.阿萝维纳斯的眼前一片漆黑</text>
+</navLabel>
+<content src="Text/c188.xhtml" /></navPoint>
+<navPoint id="navPoint192" playOrder="192">
+<navLabel>
+<text>189.英雄的灵魂平安无事地升天了</text>
+</navLabel>
+<content src="Text/c189.xhtml" /></navPoint>
+<navPoint id="navPoint193" playOrder="193">
+<navLabel>
+<text>190.向米兹伽尔兹说再见</text>
+</navLabel>
+<content src="Text/c190.xhtml" /></navPoint>
+<navPoint id="navPoint194" playOrder="194">
+<navLabel>
+<text>最终话 梦想和冒险！向着和平的世界，let’s go！</text>
+</navLabel>
+<content src="Text/c191.xhtml" /></navPoint>
+<navPoint id="navPoint195" playOrder="195">
+<navLabel>
+<text>后日谈1 野生的蜜瓜出现了</text>
+</navLabel>
+<content src="Text/c192.xhtml" /><navPoint id="navPoint196" playOrder="196">
+<navLabel>
+<text>后日谈2 恭喜，蜜瓜火腿进化了</text>
+</navLabel>
+<content src="Text/c193.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="navPoint197" playOrder="197">
+<navLabel>
+<text>后日谈3 露法斯赛车</text>
+</navLabel>
+<content src="Text/c194.xhtml" /></navPoint>
+<navPoint id="navPoint198" playOrder="198">
+<navLabel>
+<text>后日谈4.不合时节的泳装活动</text>
+</navLabel>
+<content src="Text/c195.xhtml" /></navPoint>
+<navPoint id="navPoint199" playOrder="199">
+<navLabel>
+<text>后日谈5.这一天</text>
+</navLabel>
+<content src="Text/c196.xhtml" /></navPoint>
+<navPoint id="navPoint200" playOrder="200">
+<navLabel>
+<text>后日谈6 新的威胁</text>
+</navLabel>
+<content src="Text/c197.xhtml" /></navPoint>
+<navPoint id="navPoint201" playOrder="201">
+<navLabel>
+<text>后日谈7 姗姗来迟的固有技能</text>
+</navLabel>
+<content src="Text/c198.xhtml" /></navPoint>
+</navMap>
+</ncx>

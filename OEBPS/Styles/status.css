@@ -1,0 +1,22 @@
+.statusValue.statusHP {
+    color: lawngreen;
+}
+.statusValue.statusSP {
+    color: yellow;
+}
+.statusValue.debuff {
+    color: red;
+}
+.charactercard {
+    border: #ccc 5px double;
+    border-radius: 10px;
+}
+.charactercard .card.buff {
+    color: rgb(114, 182, 13);
+}
+
+.charactercard .card.name {
+    border-bottom: 1px solid #ccc;
+    font: bolder;
+    padding-bottom: 5px;
+}

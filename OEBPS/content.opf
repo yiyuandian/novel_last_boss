@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>野生的最终boss出现了</dc:title>
+        <dc:creator></dc:creator>
+        <meta content="yyd" name="opf:file-as" />
+        <dc:language>zh-CN</dc:language>
+        <dc:description>野生的最终boss出现了(野生のラスボスが現れた！)</dc:description>
+        <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2020-06-27</dc:date>
+        <meta content="0.9.9" name="Sigil version" />
+        <meta name="cover" content="cover.jpg" />
+    </metadata>
+    <manifest><item id="cover.png" href="Images/cover.png" media-type="image/png" properties="cover-image" />
+<item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css" />
+<item id="charactersaidtext.css" href="Styles/charactersaidtext.css" media-type="text/css" />
+<item id="c000" href="Text/c000.xhtml" media-type="application/xhtml+xml" />
+<item id="c001" href="Text/c001.xhtml" media-type="application/xhtml+xml" />
+<item id="c002" href="Text/c002.xhtml" media-type="application/xhtml+xml" />
+<item id="c003" href="Text/c003.xhtml" media-type="application/xhtml+xml" />
+<item id="c004" href="Text/c004.xhtml" media-type="application/xhtml+xml" />
+<item id="c005" href="Text/c005.xhtml" media-type="application/xhtml+xml" />
+<item id="c006" href="Text/c006.xhtml" media-type="application/xhtml+xml" />
+<item id="c007" href="Text/c007.xhtml" media-type="application/xhtml+xml" />
+<item id="c008" href="Text/c008.xhtml" media-type="application/xhtml+xml" />
+<item id="c009" href="Text/c009.xhtml" media-type="application/xhtml+xml" />
+<item id="c010" href="Text/c010.xhtml" media-type="application/xhtml+xml" />
+<item id="c011" href="Text/c011.xhtml" media-type="application/xhtml+xml" />
+<item id="c012" href="Text/c012.xhtml" media-type="application/xhtml+xml" />
+<item id="c013" href="Text/c013.xhtml" media-type="application/xhtml+xml" />
+<item id="c014" href="Text/c014.xhtml" media-type="application/xhtml+xml" />
+<item id="c015" href="Text/c015.xhtml" media-type="application/xhtml+xml" />
+<item id="c016" href="Text/c016.xhtml" media-type="application/xhtml+xml" />
+<item id="c017" href="Text/c017.xhtml" media-type="application/xhtml+xml" />
+<item id="c018" href="Text/c018.xhtml" media-type="application/xhtml+xml" />
+<item id="c019" href="Text/c019.xhtml" media-type="application/xhtml+xml" />
+<item id="c020" href="Text/c020.xhtml" media-type="application/xhtml+xml" />
+<item id="c021" href="Text/c021.xhtml" media-type="application/xhtml+xml" />
+<item id="c022" href="Text/c022.xhtml" media-type="application/xhtml+xml" />
+<item id="c023" href="Text/c023.xhtml" media-type="application/xhtml+xml" />
+<item id="c024" href="Text/c024.xhtml" media-type="application/xhtml+xml" />
+<item id="c025" href="Text/c025.xhtml" media-type="application/xhtml+xml" />
+<item id="c026" href="Text/c026.xhtml" media-type="application/xhtml+xml" />
+<item id="c027" href="Text/c027.xhtml" media-type="application/xhtml+xml" />
+<item id="c028" href="Text/c028.xhtml" media-type="application/xhtml+xml" />
+<item id="c029" href="Text/c029.xhtml" media-type="application/xhtml+xml" />
+<item id="c030" href="Text/c030.xhtml" media-type="application/xhtml+xml" />
+<item id="c031" href="Text/c031.xhtml" media-type="application/xhtml+xml" />
+<item id="c032" href="Text/c032.xhtml" media-type="application/xhtml+xml" />
+<item id="c033" href="Text/c033.xhtml" media-type="application/xhtml+xml" />
+<item id="c034" href="Text/c034.xhtml" media-type="application/xhtml+xml" />
+<item id="c035" href="Text/c035.xhtml" media-type="application/xhtml+xml" />
+<item id="c036" href="Text/c036.xhtml" media-type="application/xhtml+xml" />
+<item id="c037" href="Text/c037.xhtml" media-type="application/xhtml+xml" />
+<item id="c038" href="Text/c038.xhtml" media-type="application/xhtml+xml" />
+<item id="c039" href="Text/c039.xhtml" media-type="application/xhtml+xml" />
+<item id="c040" href="Text/c040.xhtml" media-type="application/xhtml+xml" />
+<item id="c041" href="Text/c041.xhtml" media-type="application/xhtml+xml" />
+<item id="c042" href="Text/c042.xhtml" media-type="application/xhtml+xml" />
+<item id="c043" href="Text/c043.xhtml" media-type="application/xhtml+xml" />
+<item id="c044" href="Text/c044.xhtml" media-type="application/xhtml+xml" />
+<item id="c045" href="Text/c045.xhtml" media-type="application/xhtml+xml" />
+<item id="c046" href="Text/c046.xhtml" media-type="application/xhtml+xml" />
+<item id="c047" href="Text/c047.xhtml" media-type="application/xhtml+xml" />
+<item id="c048" href="Text/c048.xhtml" media-type="application/xhtml+xml" />
+<item id="c049" href="Text/c049.xhtml" media-type="application/xhtml+xml" />
+<item id="c050" href="Text/c050.xhtml" media-type="application/xhtml+xml" />
+<item id="c051" href="Text/c051.xhtml" media-type="application/xhtml+xml" />
+<item id="c052" href="Text/c052.xhtml" media-type="application/xhtml+xml" />
+<item id="c053" href="Text/c053.xhtml" media-type="application/xhtml+xml" />
+<item id="c054" href="Text/c054.xhtml" media-type="application/xhtml+xml" />
+<item id="c055" href="Text/c055.xhtml" media-type="application/xhtml+xml" />
+<item id="c056" href="Text/c056.xhtml" media-type="application/xhtml+xml" />
+<item id="c057" href="Text/c057.xhtml" media-type="application/xhtml+xml" />
+<item id="c058" href="Text/c058.xhtml" media-type="application/xhtml+xml" />
+<item id="c059" href="Text/c059.xhtml" media-type="application/xhtml+xml" />
+<item id="c060" href="Text/c060.xhtml" media-type="application/xhtml+xml" />
+<item id="c061" href="Text/c061.xhtml" media-type="application/xhtml+xml" />
+<item id="c062" href="Text/c062.xhtml" media-type="application/xhtml+xml" />
+<item id="c063" href="Text/c063.xhtml" media-type="application/xhtml+xml" />
+<item id="c064" href="Text/c064.xhtml" media-type="application/xhtml+xml" />
+<item id="c065" href="Text/c065.xhtml" media-type="application/xhtml+xml" />
+<item id="c066" href="Text/c066.xhtml" media-type="application/xhtml+xml" />
+<item id="c067" href="Text/c067.xhtml" media-type="application/xhtml+xml" />
+<item id="c068" href="Text/c068.xhtml" media-type="application/xhtml+xml" />
+<item id="c069" href="Text/c069.xhtml" media-type="application/xhtml+xml" />
+<item id="c070" href="Text/c070.xhtml" media-type="application/xhtml+xml" />
+<item id="c071" href="Text/c071.xhtml" media-type="application/xhtml+xml" />
+<item id="c072" href="Text/c072.xhtml" media-type="application/xhtml+xml" />
+<item id="c073" href="Text/c073.xhtml" media-type="application/xhtml+xml" />
+<item id="c074" href="Text/c074.xhtml" media-type="application/xhtml+xml" />
+<item id="c075" href="Text/c075.xhtml" media-type="application/xhtml+xml" />
+<item id="c076" href="Text/c076.xhtml" media-type="application/xhtml+xml" />
+<item id="c077" href="Text/c077.xhtml" media-type="application/xhtml+xml" />
+<item id="c078" href="Text/c078.xhtml" media-type="application/xhtml+xml" />
+<item id="c079" href="Text/c079.xhtml" media-type="application/xhtml+xml" />
+<item id="c080" href="Text/c080.xhtml" media-type="application/xhtml+xml" />
+<item id="c081" href="Text/c081.xhtml" media-type="application/xhtml+xml" />
+<item id="c082" href="Text/c082.xhtml" media-type="application/xhtml+xml" />
+<item id="c083" href="Text/c083.xhtml" media-type="application/xhtml+xml" />
+<item id="c084" href="Text/c084.xhtml" media-type="application/xhtml+xml" />
+<item id="c085" href="Text/c085.xhtml" media-type="application/xhtml+xml" />
+<item id="c086" href="Text/c086.xhtml" media-type="application/xhtml+xml" />
+<item id="c087" href="Text/c087.xhtml" media-type="application/xhtml+xml" />
+<item id="c088" href="Text/c088.xhtml" media-type="application/xhtml+xml" />
+<item id="c089" href="Text/c089.xhtml" media-type="application/xhtml+xml" />
+<item id="c090" href="Text/c090.xhtml" media-type="application/xhtml+xml" />
+<item id="c090_extra01" href="Text/c090_extra01.xhtml" media-type="application/xhtml+xml" />
+<item id="c090_extra02" href="Text/c090_extra02.xhtml" media-type="application/xhtml+xml" />
+<item id="c090_extra03" href="Text/c090_extra03.xhtml" media-type="application/xhtml+xml" />
+<item id="c091" href="Text/c091.xhtml" media-type="application/xhtml+xml" />
+<item id="c092" href="Text/c092.xhtml" media-type="application/xhtml+xml" />
+<item id="c093" href="Text/c093.xhtml" media-type="application/xhtml+xml" />
+<item id="c094" href="Text/c094.xhtml" media-type="application/xhtml+xml" />
+<item id="c095" href="Text/c095.xhtml" media-type="application/xhtml+xml" />
+<item id="c096" href="Text/c096.xhtml" media-type="application/xhtml+xml" />
+<item id="c097" href="Text/c097.xhtml" media-type="application/xhtml+xml" />
+<item id="c098" href="Text/c098.xhtml" media-type="application/xhtml+xml" />
+<item id="c099" href="Text/c099.xhtml" media-type="application/xhtml+xml" />
+<item id="c100" href="Text/c100.xhtml" media-type="application/xhtml+xml" />
+<item id="c101" href="Text/c101.xhtml" media-type="application/xhtml+xml" />
+<item id="c102" href="Text/c102.xhtml" media-type="application/xhtml+xml" />
+<item id="c103" href="Text/c103.xhtml" media-type="application/xhtml+xml" />
+<item id="c104" href="Text/c104.xhtml" media-type="application/xhtml+xml" />
+<item id="c105" href="Text/c105.xhtml" media-type="application/xhtml+xml" />
+<item id="c106" href="Text/c106.xhtml" media-type="application/xhtml+xml" />
+<item id="c107" href="Text/c107.xhtml" media-type="application/xhtml+xml" />
+<item id="c108" href="Text/c108.xhtml" media-type="application/xhtml+xml" />
+<item id="c109" href="Text/c109.xhtml" media-type="application/xhtml+xml" />
+<item id="c110" href="Text/c110.xhtml" media-type="application/xhtml+xml" />
+<item id="c111" href="Text/c111.xhtml" media-type="application/xhtml+xml" />
+<item id="c112" href="Text/c112.xhtml" media-type="application/xhtml+xml" />
+<item id="c113" href="Text/c113.xhtml" media-type="application/xhtml+xml" />
+<item id="c114" href="Text/c114.xhtml" media-type="application/xhtml+xml" />
+<item id="c115" href="Text/c115.xhtml" media-type="application/xhtml+xml" />
+<item id="c116" href="Text/c116.xhtml" media-type="application/xhtml+xml" />
+<item id="c117" href="Text/c117.xhtml" media-type="application/xhtml+xml" />
+<item id="c118" href="Text/c118.xhtml" media-type="application/xhtml+xml" />
+<item id="c119" href="Text/c119.xhtml" media-type="application/xhtml+xml" />
+<item id="c120" href="Text/c120.xhtml" media-type="application/xhtml+xml" />
+<item id="c121" href="Text/c121.xhtml" media-type="application/xhtml+xml" />
+<item id="c122" href="Text/c122.xhtml" media-type="application/xhtml+xml" />
+<item id="c123" href="Text/c123.xhtml" media-type="application/xhtml+xml" />
+<item id="c124" href="Text/c124.xhtml" media-type="application/xhtml+xml" />
+<item id="c125" href="Text/c125.xhtml" media-type="application/xhtml+xml" />
+<item id="c126" href="Text/c126.xhtml" media-type="application/xhtml+xml" />
+<item id="c127" href="Text/c127.xhtml" media-type="application/xhtml+xml" />
+<item id="c128" href="Text/c128.xhtml" media-type="application/xhtml+xml" />
+<item id="c129" href="Text/c129.xhtml" media-type="application/xhtml+xml" />
+<item id="c130" href="Text/c130.xhtml" media-type="application/xhtml+xml" />
+<item id="c131" href="Text/c131.xhtml" media-type="application/xhtml+xml" />
+<item id="c132" href="Text/c132.xhtml" media-type="application/xhtml+xml" />
+<item id="c133" href="Text/c133.xhtml" media-type="application/xhtml+xml" />
+<item id="c134" href="Text/c134.xhtml" media-type="application/xhtml+xml" />
+<item id="c135" href="Text/c135.xhtml" media-type="application/xhtml+xml" />
+<item id="c136" href="Text/c136.xhtml" media-type="application/xhtml+xml" />
+<item id="c137" href="Text/c137.xhtml" media-type="application/xhtml+xml" />
+<item id="c138" href="Text/c138.xhtml" media-type="application/xhtml+xml" />
+<item id="c139" href="Text/c139.xhtml" media-type="application/xhtml+xml" />
+<item id="c140" href="Text/c140.xhtml" media-type="application/xhtml+xml" />
+<item id="c141" href="Text/c141.xhtml" media-type="application/xhtml+xml" />
+<item id="c142" href="Text/c142.xhtml" media-type="application/xhtml+xml" />
+<item id="c143" href="Text/c143.xhtml" media-type="application/xhtml+xml" />
+<item id="c144" href="Text/c144.xhtml" media-type="application/xhtml+xml" />
+<item id="c145" href="Text/c145.xhtml" media-type="application/xhtml+xml" />
+<item id="c146" href="Text/c146.xhtml" media-type="application/xhtml+xml" />
+<item id="c147" href="Text/c147.xhtml" media-type="application/xhtml+xml" />
+<item id="c148" href="Text/c148.xhtml" media-type="application/xhtml+xml" />
+<item id="c149" href="Text/c149.xhtml" media-type="application/xhtml+xml" />
+<item id="c150" href="Text/c150.xhtml" media-type="application/xhtml+xml" />
+<item id="c151" href="Text/c151.xhtml" media-type="application/xhtml+xml" />
+<item id="c152" href="Text/c152.xhtml" media-type="application/xhtml+xml" />
+<item id="c153" href="Text/c153.xhtml" media-type="application/xhtml+xml" />
+<item id="c154" href="Text/c154.xhtml" media-type="application/xhtml+xml" />
+<item id="c155" href="Text/c155.xhtml" media-type="application/xhtml+xml" />
+<item id="c156" href="Text/c156.xhtml" media-type="application/xhtml+xml" />
+<item id="c157" href="Text/c157.xhtml" media-type="application/xhtml+xml" />
+<item id="c158" href="Text/c158.xhtml" media-type="application/xhtml+xml" />
+<item id="c159" href="Text/c159.xhtml" media-type="application/xhtml+xml" />
+<item id="c160" href="Text/c160.xhtml" media-type="application/xhtml+xml" />
+<item id="c161" href="Text/c161.xhtml" media-type="application/xhtml+xml" />
+<item id="c162" href="Text/c162.xhtml" media-type="application/xhtml+xml" />
+<item id="c163" href="Text/c163.xhtml" media-type="application/xhtml+xml" />
+<item id="c164" href="Text/c164.xhtml" media-type="application/xhtml+xml" />
+<item id="c165" href="Text/c165.xhtml" media-type="application/xhtml+xml" />
+<item id="c166" href="Text/c166.xhtml" media-type="application/xhtml+xml" />
+<item id="c167" href="Text/c167.xhtml" media-type="application/xhtml+xml" />
+<item id="c168" href="Text/c168.xhtml" media-type="application/xhtml+xml" />
+<item id="c169" href="Text/c169.xhtml" media-type="application/xhtml+xml" />
+<item id="c170" href="Text/c170.xhtml" media-type="application/xhtml+xml" />
+<item id="c171" href="Text/c171.xhtml" media-type="application/xhtml+xml" />
+<item id="c172" href="Text/c172.xhtml" media-type="application/xhtml+xml" />
+<item id="c173" href="Text/c173.xhtml" media-type="application/xhtml+xml" />
+<item id="c174" href="Text/c174.xhtml" media-type="application/xhtml+xml" />
+<item id="c175" href="Text/c175.xhtml" media-type="application/xhtml+xml" />
+<item id="c176" href="Text/c176.xhtml" media-type="application/xhtml+xml" />
+<item id="c177" href="Text/c177.xhtml" media-type="application/xhtml+xml" />
+<item id="c178" href="Text/c178.xhtml" media-type="application/xhtml+xml" />
+<item id="c179" href="Text/c179.xhtml" media-type="application/xhtml+xml" />
+<item id="c180" href="Text/c180.xhtml" media-type="application/xhtml+xml" />
+<item id="c181" href="Text/c181.xhtml" media-type="application/xhtml+xml" />
+<item id="c182" href="Text/c182.xhtml" media-type="application/xhtml+xml" />
+<item id="c183" href="Text/c183.xhtml" media-type="application/xhtml+xml" />
+<item id="c184" href="Text/c184.xhtml" media-type="application/xhtml+xml" />
+<item id="c185" href="Text/c185.xhtml" media-type="application/xhtml+xml" />
+<item id="c186" href="Text/c186.xhtml" media-type="application/xhtml+xml" />
+<item id="c187" href="Text/c187.xhtml" media-type="application/xhtml+xml" />
+<item id="c188" href="Text/c188.xhtml" media-type="application/xhtml+xml" />
+<item id="c189" href="Text/c189.xhtml" media-type="application/xhtml+xml" />
+<item id="c190" href="Text/c190.xhtml" media-type="application/xhtml+xml" />
+<item id="c191" href="Text/c191.xhtml" media-type="application/xhtml+xml" />
+<item id="c192" href="Text/c192.xhtml" media-type="application/xhtml+xml" />
+<item id="c193" href="Text/c193.xhtml" media-type="application/xhtml+xml" />
+<item id="c194" href="Text/c194.xhtml" media-type="application/xhtml+xml" />
+<item id="c195" href="Text/c195.xhtml" media-type="application/xhtml+xml" />
+<item id="c196" href="Text/c196.xhtml" media-type="application/xhtml+xml" />
+<item id="c197" href="Text/c197.xhtml" media-type="application/xhtml+xml" />
+<item id="c198" href="Text/c198.xhtml" media-type="application/xhtml+xml" />
+<item id="contents" href="Text/contents.xhtml" media-type="application/xhtml+xml" />
+<item id="cxgtest.php" href="Text/cxgtest.php" media-type="" />
+<item id="illustration" href="Text/illustration.xhtml" media-type="application/xhtml+xml" />
+<item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+</manifest>
+    <spine toc="toc.ncx"><itemref idref="c000" />
+<itemref idref="c001" />
+<itemref idref="c002" />
+<itemref idref="c003" />
+<itemref idref="c004" />
+<itemref idref="c005" />
+<itemref idref="c006" />
+<itemref idref="c007" />
+<itemref idref="c008" />
+<itemref idref="c009" />
+<itemref idref="c010" />
+<itemref idref="c011" />
+<itemref idref="c012" />
+<itemref idref="c013" />
+<itemref idref="c014" />
+<itemref idref="c015" />
+<itemref idref="c016" />
+<itemref idref="c017" />
+<itemref idref="c018" />
+<itemref idref="c019" />
+<itemref idref="c020" />
+<itemref idref="c021" />
+<itemref idref="c022" />
+<itemref idref="c023" />
+<itemref idref="c024" />
+<itemref idref="c025" />
+<itemref idref="c026" />
+<itemref idref="c027" />
+<itemref idref="c028" />
+<itemref idref="c029" />
+<itemref idref="c030" />
+<itemref idref="c031" />
+<itemref idref="c032" />
+<itemref idref="c033" />
+<itemref idref="c034" />
+<itemref idref="c035" />
+<itemref idref="c036" />
+<itemref idref="c037" />
+<itemref idref="c038" />
+<itemref idref="c039" />
+<itemref idref="c040" />
+<itemref idref="c041" />
+<itemref idref="c042" />
+<itemref idref="c043" />
+<itemref idref="c044" />
+<itemref idref="c045" />
+<itemref idref="c046" />
+<itemref idref="c047" />
+<itemref idref="c048" />
+<itemref idref="c049" />
+<itemref idref="c050" />
+<itemref idref="c051" />
+<itemref idref="c052" />
+<itemref idref="c053" />
+<itemref idref="c054" />
+<itemref idref="c055" />
+<itemref idref="c056" />
+<itemref idref="c057" />
+<itemref idref="c058" />
+<itemref idref="c059" />
+<itemref idref="c060" />
+<itemref idref="c061" />
+<itemref idref="c062" />
+<itemref idref="c063" />
+<itemref idref="c064" />
+<itemref idref="c065" />
+<itemref idref="c066" />
+<itemref idref="c067" />
+<itemref idref="c068" />
+<itemref idref="c069" />
+<itemref idref="c070" />
+<itemref idref="c071" />
+<itemref idref="c072" />
+<itemref idref="c073" />
+<itemref idref="c074" />
+<itemref idref="c075" />
+<itemref idref="c076" />
+<itemref idref="c077" />
+<itemref idref="c078" />
+<itemref idref="c079" />
+<itemref idref="c080" />
+<itemref idref="c081" />
+<itemref idref="c082" />
+<itemref idref="c083" />
+<itemref idref="c084" />
+<itemref idref="c085" />
+<itemref idref="c086" />
+<itemref idref="c087" />
+<itemref idref="c088" />
+<itemref idref="c089" />
+<itemref idref="c090" />
+<itemref idref="c090_extra01" />
+<itemref idref="c090_extra02" />
+<itemref idref="c090_extra03" />
+<itemref idref="c091" />
+<itemref idref="c092" />
+<itemref idref="c093" />
+<itemref idref="c094" />
+<itemref idref="c095" />
+<itemref idref="c096" />
+<itemref idref="c097" />
+<itemref idref="c098" />
+<itemref idref="c099" />
+<itemref idref="c100" />
+<itemref idref="c101" />
+<itemref idref="c102" />
+<itemref idref="c103" />
+<itemref idref="c104" />
+<itemref idref="c105" />
+<itemref idref="c106" />
+<itemref idref="c107" />
+<itemref idref="c108" />
+<itemref idref="c109" />
+<itemref idref="c110" />
+<itemref idref="c111" />
+<itemref idref="c112" />
+<itemref idref="c113" />
+<itemref idref="c114" />
+<itemref idref="c115" />
+<itemref idref="c116" />
+<itemref idref="c117" />
+<itemref idref="c118" />
+<itemref idref="c119" />
+<itemref idref="c120" />
+<itemref idref="c121" />
+<itemref idref="c122" />
+<itemref idref="c123" />
+<itemref idref="c124" />
+<itemref idref="c125" />
+<itemref idref="c126" />
+<itemref idref="c127" />
+<itemref idref="c128" />
+<itemref idref="c129" />
+<itemref idref="c130" />
+<itemref idref="c131" />
+<itemref idref="c132" />
+<itemref idref="c133" />
+<itemref idref="c134" />
+<itemref idref="c135" />
+<itemref idref="c136" />
+<itemref idref="c137" />
+<itemref idref="c138" />
+<itemref idref="c139" />
+<itemref idref="c140" />
+<itemref idref="c141" />
+<itemref idref="c142" />
+<itemref idref="c143" />
+<itemref idref="c144" />
+<itemref idref="c145" />
+<itemref idref="c146" />
+<itemref idref="c147" />
+<itemref idref="c148" />
+<itemref idref="c149" />
+<itemref idref="c150" />
+<itemref idref="c151" />
+<itemref idref="c152" />
+<itemref idref="c153" />
+<itemref idref="c154" />
+<itemref idref="c155" />
+<itemref idref="c156" />
+<itemref idref="c157" />
+<itemref idref="c158" />
+<itemref idref="c159" />
+<itemref idref="c160" />
+<itemref idref="c161" />
+<itemref idref="c162" />
+<itemref idref="c163" />
+<itemref idref="c164" />
+<itemref idref="c165" />
+<itemref idref="c166" />
+<itemref idref="c167" />
+<itemref idref="c168" />
+<itemref idref="c169" />
+<itemref idref="c170" />
+<itemref idref="c171" />
+<itemref idref="c172" />
+<itemref idref="c173" />
+<itemref idref="c174" />
+<itemref idref="c175" />
+<itemref idref="c176" />
+<itemref idref="c177" />
+<itemref idref="c178" />
+<itemref idref="c179" />
+<itemref idref="c180" />
+<itemref idref="c181" />
+<itemref idref="c182" />
+<itemref idref="c183" />
+<itemref idref="c184" />
+<itemref idref="c185" />
+<itemref idref="c186" />
+<itemref idref="c187" />
+<itemref idref="c188" />
+<itemref idref="c189" />
+<itemref idref="c190" />
+<itemref idref="c191" />
+<itemref idref="c192" />
+<itemref idref="c193" />
+<itemref idref="c194" />
+<itemref idref="c195" />
+<itemref idref="c196" />
+<itemref idref="c197" />
+<itemref idref="c198" />
+<itemref idref="contents" />
+<itemref idref="illustration" />
+</spine>
+    <guide>
+    </guide>
+</package>
