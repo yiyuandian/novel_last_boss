@@ -10,9 +10,15 @@
         <meta content="0.9.9" name="Sigil version" />
         <meta name="cover" content="cover.jpg" />
     </metadata>
-    <manifest><item id="cover.png" href="Images/cover.png" media-type="image/png" properties="cover-image" />
-<item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css" />
+    <manifest><item id="x7lcb9hbl5vr3o00iyhl7lovjpjc_1dqg_e7_go_1eux.jpg.580.jpg" href="Images/7lcb9hbl5vr3o00iyhl7lovjpjc_1dqg_e7_go_1eux.jpg.580.jpg" media-type="image/jpeg" />
+<item id="c098_benet_pantsu.png" href="Images/c098_benet_pantsu.png" media-type="image/png" />
+<item id="cover.png" href="Images/cover.png" media-type="image/png" properties="cover-image" />
+<item id="l0xn3tbkavsj11ldo08eqf0epb0_1cyr_9r_dw_3arf.jpg" href="Images/l0xn3tbkavsj11ldo08eqf0epb0_1cyr_9r_dw_3arf.jpg" media-type="image/jpeg" />
+<item id="library_edition_1_sidestory.jpg" href="Images/library_edition_1_sidestory.jpg" media-type="image/jpeg" />
 <item id="charactersaidtext.css" href="Styles/charactersaidtext.css" media-type="text/css" />
+<item id="image.css" href="Styles/image.css" media-type="text/css" />
+<item id="status.css" href="Styles/status.css" media-type="text/css" />
+<item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css" />
 <item id="c000" href="Text/c000.xhtml" media-type="application/xhtml+xml" />
 <item id="c001" href="Text/c001.xhtml" media-type="application/xhtml+xml" />
 <item id="c002" href="Text/c002.xhtml" media-type="application/xhtml+xml" />
@@ -215,9 +221,11 @@
 <item id="c196" href="Text/c196.xhtml" media-type="application/xhtml+xml" />
 <item id="c197" href="Text/c197.xhtml" media-type="application/xhtml+xml" />
 <item id="c198" href="Text/c198.xhtml" media-type="application/xhtml+xml" />
+<item id="c199" href="Text/c199.xhtml" media-type="application/xhtml+xml" />
+<item id="c200" href="Text/c200.xhtml" media-type="application/xhtml+xml" />
 <item id="contents" href="Text/contents.xhtml" media-type="application/xhtml+xml" />
-<item id="cxgtest.php" href="Text/cxgtest.php" media-type="" />
 <item id="illustration" href="Text/illustration.xhtml" media-type="application/xhtml+xml" />
+<item id="rename.php" href="Text/rename.php" media-type="" />
 <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 </manifest>
     <spine toc="toc.ncx"><itemref idref="c000" />
@@ -422,6 +430,8 @@
 <itemref idref="c196" />
 <itemref idref="c197" />
 <itemref idref="c198" />
+<itemref idref="c199" />
+<itemref idref="c200" />
 <itemref idref="contents" />
 <itemref idref="illustration" />
 </spine>
