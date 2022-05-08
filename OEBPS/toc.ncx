@@ -1021,5 +1021,15 @@
 <text>后日谈7 姗姗来迟的固有技能</text>
 </navLabel>
 <content src="Text/c198.xhtml" /></navPoint>
+<navPoint id="navPoint202" playOrder="202">
+<navLabel>
+<text>后日谈8 迷之装饰品</text>
+</navLabel>
+<content src="Text/c199.xhtml" /></navPoint>
+<navPoint id="navPoint203" playOrder="203">
+<navLabel>
+<text>文库一番外</text>
+</navLabel>
+<content src="Text/c200.xhtml" /></navPoint>
 </navMap>
 </ncx>
