@@ -1,3 +1,8 @@
 img {
     width: 100%;
 }
+.img {
+    background-size: 500px;
+    background-repeat: no-repeat;
+    display: block;
+}
