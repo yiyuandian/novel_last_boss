@@ -15,6 +15,7 @@
 <item id="cover.png" href="Images/cover.png" media-type="image/png" properties="cover-image" />
 <item id="l0xn3tbkavsj11ldo08eqf0epb0_1cyr_9r_dw_3arf.jpg" href="Images/l0xn3tbkavsj11ldo08eqf0epb0_1cyr_9r_dw_3arf.jpg" media-type="image/jpeg" />
 <item id="library_edition_1_sidestory.jpg" href="Images/library_edition_1_sidestory.jpg" media-type="image/jpeg" />
+<item id="library_edition_2_sidestory.jpg" href="Images/library_edition_2_sidestory.jpg" media-type="image/jpeg" />
 <item id="charactersaidtext.css" href="Styles/charactersaidtext.css" media-type="text/css" />
 <item id="image.css" href="Styles/image.css" media-type="text/css" />
 <item id="status.css" href="Styles/status.css" media-type="text/css" />
@@ -222,9 +223,10 @@
 <item id="c197" href="Text/c197.xhtml" media-type="application/xhtml+xml" />
 <item id="c198" href="Text/c198.xhtml" media-type="application/xhtml+xml" />
 <item id="c199" href="Text/c199.xhtml" media-type="application/xhtml+xml" />
-<item id="c200" href="Text/c200.xhtml" media-type="application/xhtml+xml" />
 <item id="contents" href="Text/contents.xhtml" media-type="application/xhtml+xml" />
 <item id="illustration" href="Text/illustration.xhtml" media-type="application/xhtml+xml" />
+<item id="libary_sidestory_1" href="Text/libary_sidestory_1.xhtml" media-type="application/xhtml+xml" />
+<item id="libary_sidestory_2" href="Text/libary_sidestory_2.xhtml" media-type="application/xhtml+xml" />
 <item id="rename.php" href="Text/rename.php" media-type="" />
 <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 </manifest>
@@ -431,7 +433,8 @@
 <itemref idref="c197" />
 <itemref idref="c198" />
 <itemref idref="c199" />
-<itemref idref="c200" />
+<itemref idref="libary_sidestory_1" />
+<itemref idref="libary_sidestory_2" />
 <itemref idref="contents" />
 <itemref idref="illustration" />
 </spine>

@@ -1028,8 +1028,13 @@
 <content src="Text/c199.xhtml" /></navPoint>
 <navPoint id="navPoint203" playOrder="203">
 <navLabel>
-<text>文库一番外</text>
+<text>文库一番外 野生的恐龙出现了</text>
 </navLabel>
-<content src="Text/c200.xhtml" /></navPoint>
+<content src="Text/libary_sidestory_1.xhtml" /></navPoint>
+<navPoint id="navPoint204" playOrder="204">
+<navLabel>
+<text>文库二番外 野生的杀手女仆出现了</text>
+</navLabel>
+<content src="Text/libary_sidestory_2.xhtml" /></navPoint>
 </navMap>
 </ncx>
