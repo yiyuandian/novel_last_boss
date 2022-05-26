@@ -225,6 +225,7 @@
 <item id="c199" href="Text/c199.xhtml" media-type="application/xhtml+xml" />
 <item id="contents" href="Text/contents.xhtml" media-type="application/xhtml+xml" />
 <item id="illustration" href="Text/illustration.xhtml" media-type="application/xhtml+xml" />
+<item id="libary_sidestory_1.2" href="Text/libary_sidestory_1.2.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_1" href="Text/libary_sidestory_1.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_2" href="Text/libary_sidestory_2.xhtml" media-type="application/xhtml+xml" />
 <item id="rename.php" href="Text/rename.php" media-type="" />
@@ -434,6 +435,7 @@
 <itemref idref="c198" />
 <itemref idref="c199" />
 <itemref idref="libary_sidestory_1" />
+<itemref idref="libary_sidestory_1.2" />
 <itemref idref="libary_sidestory_2" />
 <itemref idref="contents" />
 <itemref idref="illustration" />
