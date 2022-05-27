@@ -18,7 +18,7 @@
 <content src="Text/c000.xhtml" /></navPoint>
 <navPoint id="navPoint1" playOrder="1">
 <navLabel>
-<text>1.</text>
+<text>1. 野生的最终BOSS出现了</text>
 </navLabel>
 <content src="Text/c001.xhtml" /></navPoint>
 <navPoint id="navPoint2" playOrder="2">
@@ -33,7 +33,7 @@
 <content src="Text/c003.xhtml" /></navPoint>
 <navPoint id="navPoint4" playOrder="4">
 <navLabel>
-<text>4.</text>
+<text>4. 老人创造了一个傀儡</text>
 </navLabel>
 <content src="Text/c004.xhtml" /></navPoint>
 <navPoint id="navPoint5" playOrder="5">
@@ -268,7 +268,7 @@
 <content src="Text/c050.xhtml" /></navPoint>
 <navPoint id="navPoint51" playOrder="51">
 <navLabel>
-<text>51.</text>
+<text>51. 处女座 get da☆ze</text>
 </navLabel>
 <content src="Text/c051.xhtml" /></navPoint>
 <navPoint id="navPoint52" playOrder="52">
