@@ -1041,5 +1041,10 @@
 <text>文库二番外 野生的杀手女仆出现了</text>
 </navLabel>
 <content src="Text/libary_sidestory_2.xhtml" /></navPoint>
+<navPoint id="navPoint206" playOrder="206">
+<navLabel>
+<text>文库三番外 野生的龙出现了</text>
+</navLabel>
+<content src="Text/libary_sidestory_3.xhtml" /></navPoint>
 </navMap>
 </ncx>
