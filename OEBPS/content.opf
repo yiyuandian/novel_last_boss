@@ -18,6 +18,7 @@
 <item id="library_edition_1_sidestory.jpg" href="Images/library_edition_1_sidestory.jpg" media-type="image/jpeg" />
 <item id="library_edition_2_sidestory.jpg" href="Images/library_edition_2_sidestory.jpg" media-type="image/jpeg" />
 <item id="library_edition_3_sidestory.jpg" href="Images/library_edition_3_sidestory.jpg" media-type="image/jpeg" />
+<item id="library_edition_4_sidestory.jpg" href="Images/library_edition_4_sidestory.jpg" media-type="image/jpeg" />
 <item id="charactersaidtext.css" href="Styles/charactersaidtext.css" media-type="text/css" />
 <item id="image.css" href="Styles/image.css" media-type="text/css" />
 <item id="status.css" href="Styles/status.css" media-type="text/css" />
@@ -231,6 +232,7 @@
 <item id="libary_sidestory_1" href="Text/libary_sidestory_1.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_2" href="Text/libary_sidestory_2.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_3" href="Text/libary_sidestory_3.xhtml" media-type="application/xhtml+xml" />
+<item id="libary_sidestory_4" href="Text/libary_sidestory_4.xhtml" media-type="application/xhtml+xml" />
 <item id="rename.php" href="Text/rename.php" media-type="" />
 <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 </manifest>
@@ -441,6 +443,7 @@
 <itemref idref="libary_sidestory_1.2" />
 <itemref idref="libary_sidestory_2" />
 <itemref idref="libary_sidestory_3" />
+<itemref idref="libary_sidestory_4" />
 <itemref idref="contents" />
 <itemref idref="illustration" />
 </spine>

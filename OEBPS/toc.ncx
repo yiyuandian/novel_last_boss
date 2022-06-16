@@ -1046,5 +1046,10 @@
 <text>文库三番外 野生的龙出现了</text>
 </navLabel>
 <content src="Text/libary_sidestory_3.xhtml" /></navPoint>
+<navPoint id="navPoint207" playOrder="207">
+<navLabel>
+<text>文库四番外 菲达想要成为冒险者</text>
+</navLabel>
+<content src="Text/libary_sidestory_4.xhtml" /></navPoint>
 </navMap>
 </ncx>
