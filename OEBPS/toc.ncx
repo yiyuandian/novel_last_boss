@@ -1051,5 +1051,25 @@
 <text>文库四番外 菲达想要成为冒险者</text>
 </navLabel>
 <content src="Text/libary_sidestory_4.xhtml" /></navPoint>
+<navPoint id="navPoint208" playOrder="208">
+<navLabel>
+<text>文库五番外 龙王发起了挑战!</text>
+</navLabel>
+<content src="Text/libary_sidestory_5.xhtml" /></navPoint>
+<navPoint id="navPoint209" playOrder="209">
+<navLabel>
+<text>文库五番外 一个市民说</text>
+</navLabel>
+<content src="Text/libary_sidestory_5.2.xhtml" /></navPoint>
+<navPoint id="navPoint210" playOrder="210">
+<navLabel>
+<text>文库六番外 王子了解世界</text>
+</navLabel>
+<content src="Text/libary_sidestory_6.xhtml" /></navPoint>
+<navPoint id="navPoint211" playOrder="211">
+<navLabel>
+<text>文库六番外 露法斯一行继续她们的旅程</text>
+</navLabel>
+<content src="Text/libary_sidestory_6.2.xhtml" /></navPoint>
 </navMap>
 </ncx>
