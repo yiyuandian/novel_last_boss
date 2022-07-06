@@ -1071,5 +1071,10 @@
 <text>文库六番外 露法斯一行继续她们的旅程</text>
 </navLabel>
 <content src="Text/libary_sidestory_6.2.xhtml" /></navPoint>
+<navPoint id="navPoint212" playOrder="212">
+<navLabel>
+<text>文库七番外 梦想成真</text>
+</navLabel>
+<content src="Text/libary_sidestory_7.xhtml" /></navPoint>
 </navMap>
 </ncx>

@@ -239,6 +239,7 @@
 <item id="libary_sidestory_5" href="Text/libary_sidestory_5.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_6.2" href="Text/libary_sidestory_6.2.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_6" href="Text/libary_sidestory_6.xhtml" media-type="application/xhtml+xml" />
+<item id="libary_sidestory_7" href="Text/libary_sidestory_7.xhtml" media-type="application/xhtml+xml" />
 <item id="rename.php" href="Text/rename.php" media-type="" />
 <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 </manifest>
@@ -454,6 +455,7 @@
 <itemref idref="libary_sidestory_5.2" />
 <itemref idref="libary_sidestory_6" />
 <itemref idref="libary_sidestory_6.2" />
+<itemref idref="libary_sidestory_7" />
 <itemref idref="contents" />
 <itemref idref="illustration" />
 </spine>
