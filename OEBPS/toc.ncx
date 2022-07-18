@@ -1076,5 +1076,10 @@
 <text>文库七番外 梦想成真</text>
 </navLabel>
 <content src="Text/libary_sidestory_7.xhtml" /></navPoint>
+<navPoint id="navPoint213" playOrder="213">
+<navLabel>
+<text>文库八番外 吸血姬的忧郁</text>
+</navLabel>
+<content src="Text/libary_sidestory_8.xhtml" /></navPoint>
 </navMap>
 </ncx>
