@@ -235,6 +235,7 @@
 <item id="libary_sidestory_2" href="Text/libary_sidestory_2.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_3" href="Text/libary_sidestory_3.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_4" href="Text/libary_sidestory_4.xhtml" media-type="application/xhtml+xml" />
+<item id="libary_sidestory_4.2" href="Text/libary_sidestory_4.2.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_5.2" href="Text/libary_sidestory_5.2.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_5" href="Text/libary_sidestory_5.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_6.2" href="Text/libary_sidestory_6.2.xhtml" media-type="application/xhtml+xml" />
@@ -452,6 +453,7 @@
 <itemref idref="libary_sidestory_2" />
 <itemref idref="libary_sidestory_3" />
 <itemref idref="libary_sidestory_4" />
+<itemref idref="libary_sidestory_4.2" />
 <itemref idref="libary_sidestory_5" />
 <itemref idref="libary_sidestory_5.2" />
 <itemref idref="libary_sidestory_6" />
