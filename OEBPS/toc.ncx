@@ -1086,5 +1086,90 @@
 <text>文库八番外 吸血姬的忧郁</text>
 </navLabel>
 <content src="Text/libary_sidestory_8.xhtml" /></navPoint>
+<navPoint id="navPoint215" playOrder="215">
+<navLabel>
+<text>文库九番外 野生的Exboss出现了！ 1</text>
+</navLabel>
+<content src="Text/library_sidestory_9_01.xhtml" /></navPoint>
+<navPoint id="navPoint216" playOrder="216">
+<navLabel>
+<text>文库九番外 野生的Exboss出现了！ 2</text>
+</navLabel>
+<content src="Text/library_sidestory_9_02.xhtml" /></navPoint>
+<navPoint id="navPoint217" playOrder="217">
+<navLabel>
+<text>文库九番外 野生的Exboss出现了！ 3</text>
+</navLabel>
+<content src="Text/library_sidestory_9_03.xhtml" /></navPoint>
+<navPoint id="navPoint218" playOrder="218">
+<navLabel>
+<text>文库九番外 野生的Exboss出现了！ 4</text>
+</navLabel>
+<content src="Text/library_sidestory_9_04.xhtml" /></navPoint>
+<navPoint id="navPoint219" playOrder="219">
+<navLabel>
+<text>文库九番外 野生的Exboss出现了！ 5</text>
+</navLabel>
+<content src="Text/library_sidestory_9_05.xhtml" /></navPoint>
+<navPoint id="navPoint220" playOrder="220">
+<navLabel>
+<text>文库九番外 野生的Exboss出现了！ 6</text>
+</navLabel>
+<content src="Text/library_sidestory_9_06.xhtml" /></navPoint>
+<navPoint id="navPoint221" playOrder="221">
+<navLabel>
+<text>文库九番外 野生的Exboss出现了！ 7</text>
+</navLabel>
+<content src="Text/library_sidestory_9_07.xhtml" /></navPoint>
+<navPoint id="navPoint222" playOrder="222">
+<navLabel>
+<text>文库九番外 野生的Exboss出现了！ 8</text>
+</navLabel>
+<content src="Text/library_sidestory_9_08.xhtml" /></navPoint>
+<navPoint id="navPoint223" playOrder="223">
+<navLabel>
+<text>文库九番外 野生的Exboss出现了！ 9</text>
+</navLabel>
+<content src="Text/library_sidestory_9_09.xhtml" /></navPoint>
+<navPoint id="navPoint224" playOrder="224">
+<navLabel>
+<text>文库九番外 野生的Exboss出现了！ 10</text>
+</navLabel>
+<content src="Text/library_sidestory_9_10.xhtml" /></navPoint>
+<navPoint id="navPoint225" playOrder="225">
+<navLabel>
+<text>文库九番外 野生的Exboss出现了！ 11</text>
+</navLabel>
+<content src="Text/library_sidestory_9_11.xhtml" /></navPoint>
+<navPoint id="navPoint226" playOrder="226">
+<navLabel>
+<text>文库九番外 元素会议</text>
+</navLabel>
+<content src="Text/library_sidestory_9_12.xhtml" /></navPoint>
+<navPoint id="navPoint227" playOrder="227">
+<navLabel>
+<text>番外 哦，梅拉克的样子。。。</text>
+</navLabel>
+<content src="Text/e001.xhtml" /></navPoint>
+<navPoint id="navPoint228" playOrder="228">
+<navLabel>
+<text>番外 卡斯托尔的专属技能</text>
+</navLabel>
+<content src="Text/e002.xhtml" /></navPoint>
+<navPoint id="navPoint229" playOrder="229">
+<navLabel>
+<text>番外 空气之主</text>
+</navLabel>
+<content src="Text/e003.xhtml" /></navPoint>
+<navPoint id="navPoint230" playOrder="230">
+<navLabel>
+<text>番外 野生的最终boss没有出现！</text>
+</navLabel>
+<content src="Text/e004.xhtml" /></navPoint>
+<navPoint id="navPoint231" playOrder="231">
+<navLabel>
+<text>番外 濑衣的表白</text>
+</navLabel>
+<content src="Text/e005.xhtml" /></navPoint>
 </navMap>
 </ncx>

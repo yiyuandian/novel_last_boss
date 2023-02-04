@@ -10,8 +10,12 @@
         <meta content="0.9.9" name="Sigil version" />
         <meta name="cover" content="cover.jpg" />
     </metadata>
-    <manifest><item id="x6895ed96da1a85d6f0a9b5c4f39ca540.jpg" href="Images/6895ed96da1a85d6f0a9b5c4f39ca540.jpg" media-type="image/jpeg" />
+    <manifest><item id="x24BF662F23E0B4D4DB5258D1F8F0E1E469CD420F36F3149DC5C4E937A8BDD0C5.png" href="Images/24BF662F23E0B4D4DB5258D1F8F0E1E469CD420F36F3149DC5C4E937A8BDD0C5.png" media-type="image/png" />
+<item id="x6895ed96da1a85d6f0a9b5c4f39ca540.jpg" href="Images/6895ed96da1a85d6f0a9b5c4f39ca540.jpg" media-type="image/jpeg" />
+<item id="x7428A3EFA14660E9FF8A9BBAB836F3D36204EF46003DDD3EE2AF327EE686A48C.png" href="Images/7428A3EFA14660E9FF8A9BBAB836F3D36204EF46003DDD3EE2AF327EE686A48C.png" media-type="image/png" />
 <item id="x7lcb9hbl5vr3o00iyhl7lovjpjc_1dqg_e7_go_1eux.jpg.580.jpg" href="Images/7lcb9hbl5vr3o00iyhl7lovjpjc_1dqg_e7_go_1eux.jpg.580.jpg" media-type="image/jpeg" />
+<item id="x805F05296A106B554D861C0CCE4DABF07EA8B47FB6A2C38C7F6411440B728472.png" href="Images/805F05296A106B554D861C0CCE4DABF07EA8B47FB6A2C38C7F6411440B728472.png" media-type="image/png" />
+<item id="x950EC0C7D8BAA698228F11717E0111CB3D726808CFF5AFADEB59EAC2D0DC123B.png" href="Images/950EC0C7D8BAA698228F11717E0111CB3D726808CFF5AFADEB59EAC2D0DC123B.png" media-type="image/png" />
 <item id="c098_benet_pantsu.png" href="Images/c098_benet_pantsu.png" media-type="image/png" />
 <item id="cover.png" href="Images/cover.png" media-type="image/png" properties="cover-image" />
 <item id="l0xn3tbkavsj11ldo08eqf0epb0_1cyr_9r_dw_3arf.jpg" href="Images/l0xn3tbkavsj11ldo08eqf0epb0_1cyr_9r_dw_3arf.jpg" media-type="image/jpeg" />
@@ -21,6 +25,8 @@
 <item id="library_edition_4_sidestory.jpg" href="Images/library_edition_4_sidestory.jpg" media-type="image/jpeg" />
 <item id="library_edition_5.sidestory.jpg" href="Images/library_edition_5.sidestory.jpg" media-type="image/jpeg" />
 <item id="library_edition_6_sidestory.jpg" href="Images/library_edition_6_sidestory.jpg" media-type="image/jpeg" />
+<item id="library_edition_9.1.png" href="Images/library_edition_9.1.png" media-type="image/png" />
+<item id="library_edition_9.2.png" href="Images/library_edition_9.2.png" media-type="image/png" />
 <item id="charactersaidtext.css" href="Styles/charactersaidtext.css" media-type="text/css" />
 <item id="image.css" href="Styles/image.css" media-type="text/css" />
 <item id="status.css" href="Styles/status.css" media-type="text/css" />
@@ -229,19 +235,36 @@
 <item id="c198" href="Text/c198.xhtml" media-type="application/xhtml+xml" />
 <item id="c199" href="Text/c199.xhtml" media-type="application/xhtml+xml" />
 <item id="contents" href="Text/contents.xhtml" media-type="application/xhtml+xml" />
+<item id="e001" href="Text/e001.xhtml" media-type="application/xhtml+xml" />
+<item id="e002" href="Text/e002.xhtml" media-type="application/xhtml+xml" />
+<item id="e003" href="Text/e003.xhtml" media-type="application/xhtml+xml" />
+<item id="e004" href="Text/e004.xhtml" media-type="application/xhtml+xml" />
+<item id="e005" href="Text/e005.xhtml" media-type="application/xhtml+xml" />
 <item id="illustration" href="Text/illustration.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_1.2" href="Text/libary_sidestory_1.2.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_1" href="Text/libary_sidestory_1.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_2" href="Text/libary_sidestory_2.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_3" href="Text/libary_sidestory_3.xhtml" media-type="application/xhtml+xml" />
-<item id="libary_sidestory_4" href="Text/libary_sidestory_4.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_4.2" href="Text/libary_sidestory_4.2.xhtml" media-type="application/xhtml+xml" />
+<item id="libary_sidestory_4" href="Text/libary_sidestory_4.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_5.2" href="Text/libary_sidestory_5.2.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_5" href="Text/libary_sidestory_5.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_6.2" href="Text/libary_sidestory_6.2.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_6" href="Text/libary_sidestory_6.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_7" href="Text/libary_sidestory_7.xhtml" media-type="application/xhtml+xml" />
 <item id="libary_sidestory_8" href="Text/libary_sidestory_8.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_01" href="Text/library_sidestory_9_01.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_02" href="Text/library_sidestory_9_02.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_03" href="Text/library_sidestory_9_03.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_04" href="Text/library_sidestory_9_04.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_05" href="Text/library_sidestory_9_05.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_06" href="Text/library_sidestory_9_06.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_07" href="Text/library_sidestory_9_07.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_08" href="Text/library_sidestory_9_08.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_09" href="Text/library_sidestory_9_09.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_10" href="Text/library_sidestory_9_10.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_11" href="Text/library_sidestory_9_11.xhtml" media-type="application/xhtml+xml" />
+<item id="library_sidestory_9_12" href="Text/library_sidestory_9_12.xhtml" media-type="application/xhtml+xml" />
 <item id="rename.php" href="Text/rename.php" media-type="" />
 <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 </manifest>
@@ -460,6 +483,23 @@
 <itemref idref="libary_sidestory_6.2" />
 <itemref idref="libary_sidestory_7" />
 <itemref idref="libary_sidestory_8" />
+<itemref idref="library_sidestory_9_01" />
+<itemref idref="library_sidestory_9_02" />
+<itemref idref="library_sidestory_9_03" />
+<itemref idref="library_sidestory_9_04" />
+<itemref idref="library_sidestory_9_05" />
+<itemref idref="library_sidestory_9_06" />
+<itemref idref="library_sidestory_9_07" />
+<itemref idref="library_sidestory_9_08" />
+<itemref idref="library_sidestory_9_09" />
+<itemref idref="library_sidestory_9_10" />
+<itemref idref="library_sidestory_9_11" />
+<itemref idref="library_sidestory_9_12" />
+<itemref idref="e001" />
+<itemref idref="e002" />
+<itemref idref="e003" />
+<itemref idref="e004" />
+<itemref idref="e005" />
 <itemref idref="contents" />
 <itemref idref="illustration" />
 </spine>
